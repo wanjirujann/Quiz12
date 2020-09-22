@@ -1,0 +1,188 @@
+body{
+  background-color: #b8b6b2;
+}
+
+h1{
+background-color: #2c4052;
+color:white;
+text-align: center;
+padding:20px;
+font-family: Arial, sans-serif ;
+margin: 0 auto;
+margin-bottom: 0px;
+margin-right: 0px;
+margin-left: 0px;
+}
+
+h2{
+background-color: #3b5770;
+color:white;
+text-align: center;
+padding:80px;
+font-family: Arial, sans-serif;
+font-size: 50px;
+margin: 0 auto;
+margin-top: 0px;
+}
+
+h3{
+background-color: #f0ca0e;
+color:#2c4052;
+text-align: left;
+padding:30px;
+font-family: Arial, sans-serif ;
+margin: 0 auto;
+margin-bottom: 0px;
+margin-right: 150px;
+margin-left: 150px;
+margin-top: 40px;
+font-size: 35px;
+}
+
+p{ 
+font-family: Arial, sans-serif ;
+color: #e6b515;
+text-align: center;
+font-size: 15px;
+font-weight: lighter;
+letter-spacing: 8px;
+}
+
+h4{
+background-color: white;
+font-family: Arial, sans-serif ;
+color: #7d7d7a;
+text-align: left;
+font-size: 17px;
+float:right;
+margin-right: 150px;
+margin-left: 150px;
+margin-top: 0px;
+font-weight: lighter;
+padding-top: 40px;
+}
+
+img{
+padding-left: 40px;
+float:left;
+padding-right: 40px;
+padding-bottom: 40px;
+
+}
+
+.jann{
+background-color: white;
+font-family: Arial, sans-serif ;
+color: #7d7d7a;
+text-align: left;
+font-size: 17px;
+margin-right: 400px;
+margin-left: 150px;
+margin-top: 47px;
+float:left;
+margin-bottom: 40px;
+}
+
+h{
+background-color: #f0ca0e;
+color:#2c4052;
+text-align: left;
+padding:30px;
+font-family: Arial, sans-serif ;
+font-size: 35px;
+margin-top: 15px;
+padding-right: 325px;
+margin-bottom: 10px;
+}
+
+h0{
+background-color: #f0ca0e;
+color:#2c4052;
+text-align: left;
+padding:30px;
+font-family: Arial, sans-serif ;
+font-size: 35px;
+padding-right: 370px;
+}
+
+.wanjiru{
+background-color: white;
+font-family: Arial, sans-serif ;
+color: #7d7d7a;
+text-align: left;
+font-size: 17px;
+float:right;
+margin-right: 150px;
+float:right;
+margin-top: -430px;
+margin-bottom: 40px;
+}
+
+table{
+    border: 1px solid #b8b6b2;
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+  margin-right:150px;
+  margin-left:150px; 
+  
+}
+
+th {
+  margin-top: 30px;
+  padding: 25px;
+  background-color:#f0ca0e;
+  color:#2c4052;
+  margin-right:150px;
+  margin-left: 150px; 
+  font-size: 21px;
+  padding-right: 250px;
+}
+
+tr{
+border-bottom: 1px solid #b8b6b2;
+background-color:white;
+margin-right:150px;
+margin-left: 150px;
+
+}
+
+td{
+    border-right: 1px solid #b8b6b2;
+    color: #7d7d7a;
+    padding: 20px;
+    padding-left: 70px;
+
+}
+
+h6{
+  background-color: #2c4052;
+  font-size: 15px;
+  padding-top: 60px;
+  padding-left: 300px;
+  color:white;
+  padding: 100px;
+  font-family: Arial, sans-serif ;
+  text-align: left;
+  margin-top: 40px;
+  margin-left:0px;
+  margin-bottom: 0px;
+}
+
+
+p3{
+color:#e6b515;
+font-size: 13px;
+font-family: Arial, sans-serif ;
+font-weight: lighter;
+padding-left: 0px;
+
+}
+
+p2{
+  font-size: 13px;
+  padding-left: 0px;
+  color:#7d7d7a;
+  font-family: Arial, sans-serif ;
+  padding-top: 15px;
+  
+}
